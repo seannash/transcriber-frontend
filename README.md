@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Frontend for Transcriber
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is being made so I can play with cloud services. It does nothing yet. It will serve
+as the UI for https://github.com/seannash/transcriber . Currently, it is bits and
+peices of react code that do nothing.
 
 ## Available Scripts
 
